@@ -1,0 +1,5 @@
+/* pages/index/click.wxss */
+.image.img{
+  width: 20px;
+  height: 1s0px;
+}

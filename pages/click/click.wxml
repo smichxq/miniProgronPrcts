@@ -1,0 +1,5 @@
+<!--pages/index/click.wxml-->
+<view class="image">
+  <!-- <image class="img" src="/img/2.JPG"></image> -->
+  <text>pages/click/click.wxml</text>
+</view>

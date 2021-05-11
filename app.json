@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/sign_in_up/sign_in_up",
+    "pages/index/index",
+    "pages/msg/msg",
+    "pages/user/user",
+    "pages/click/click"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#D0D0D0",
+    "navigationBarTitleText": "Demo",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#282828",
+    "selectedColor": "#000000",
+    "backgroundColor": "#D8D8D8",
+    "borderStyle": "black",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "img/home.png",
+        "selectedIconPath": "img/home_act.png",
+        "text": "主页"
+      },
+
+      {
+        "pagePath": "pages/msg/msg",
+        "iconPath": "img/msg.png",
+        "selectedIconPath": "img/msg_act.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "img/user.png",
+        "selectedIconPath": "img/user_act.png",
+        "text": "用户"
+      }
+
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,15 @@
+/**index.wxss**/
+.a{
+  word-spacing: inherit;
+  font-size: 40px;
+  font-style: initial;
+  text-align: center;
+  padding: 14cm,18cm;
+  background-color: rgb(33, 79, 83);
+  color: azure;
+  border-radius: 34px;
+  position: absolute;
+  left: 42px;
+  top: 53px;
+  width: 156px;
+}

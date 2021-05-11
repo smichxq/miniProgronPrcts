@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="a">
+   <!-- 跳转导航 -->
+   <navigator url="../click/click" class="a">click!</navigator>
+</view>
+<!-- 条件渲染 -->
+<view class="b" wx:if="{{img}}">
+   <image src="/img/2.JPG"></image>
+</view>
+
+<view class="progress-box">
+   <progress percent="100" stroke-width="22" activeColor="#fff" backgroundColor="#000" active="true" duration="10" bindactiveend="loading"/>
+</view>
+

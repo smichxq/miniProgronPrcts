@@ -1,0 +1,15 @@
+<!--pages/sign_in_up/sign_in_up.wxml-->
+
+
+<view class="sign_in_up">
+
+  <view class="sign_in">
+    <p class="sign_in_title">登录</p>
+    <p class="sign_up_title">注册</p>
+
+  </view>
+
+
+
+
+</view>
